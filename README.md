@@ -1,1 +1,1 @@
-# Projects
+Welcome on my GitHub, here You can find some of my exemplary projects.

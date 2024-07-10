@@ -1,0 +1,1 @@
+In the following directories one can find 3D models made in blender and screenshots representing them. The models are stored in .blend and were also exported to .fbx file format.

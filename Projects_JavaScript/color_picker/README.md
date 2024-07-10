@@ -1,0 +1,1 @@
+The following files have functionality of a color picking application. They are equipped with three sliders which controls the intensity of red, green and blue part of the resulting color. The rectangle representing the color preview can be seen on the right hand side in case of screens wider than 650px or at the bottom of the page if the screen is thinner. 

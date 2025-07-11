@@ -1,0 +1,1 @@
+The following scripts constitutes functionality of basic calculator. It is capable of adding brackets, comma for fractional numbers, backing last operation, storing previously calculated result. Calculation is performed with "eval" function. Attached screenshot shows how the working program should look like.

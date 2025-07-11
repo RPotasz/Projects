@@ -1,0 +1,1 @@
+The files provides functionality of the snake game. The snake might be controlled by arrows and "w", "a", "s", "d" keys. The game is equipped with start and pause button. Additionally the player can restart or quit the game once it was failed. The game stores the highest score obtained by the player. Game files are grouped into appropriate folders.

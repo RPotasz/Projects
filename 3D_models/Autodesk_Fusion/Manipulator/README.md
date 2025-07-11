@@ -1,0 +1,1 @@
+This directory includes 3D models of a manipulator analyzed during one of my classes. The model could be used to validate results obtained during evaluation of forward and inverse kinematics problems.

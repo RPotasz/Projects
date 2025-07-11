@@ -1,0 +1,1 @@
+The following directory includes a 3D models used to fix in place Raspberry Pi Camera Module 3 to a Raspberry Pi 3 model B+ housing. 
